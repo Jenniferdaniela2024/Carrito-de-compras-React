@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Cuido para perros",
+    "price": "10.000",
+    "imgUrl": "./images/chunky.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Arena",
+    "price": 800,
+    "imgUrl": "./images/arena.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Pala",
+    "price": 400,
+    "imgUrl": "./images/pala.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Pedigree",
+    "price": 550,
+    "imgUrl": "public/images/pedgree.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Peineta para gatos",
+    "price": 550,
+    "imgUrl": "public/images/peine.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Rascadores",
+    "price": 550,
+    "imgUrl": "public/images/rascador.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Whiskas",
+    "price": 550,
+    "imgUrl": "public/images/whiskas.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Pañitos humedos",
+    "price": 550,
+    "imgUrl": "public/images/paños.jpeg"
+  }
+]
